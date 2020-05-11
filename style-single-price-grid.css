@@ -122,5 +122,9 @@ p.access {
     border-radius: 5px;
 }
 
+@media (max-width:320px) {}
+
+@media (max-width:1000px) {}
+
 
 }
